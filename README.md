@@ -7,7 +7,9 @@ This is a work in progress to try and find sane requirements for web interfaces 
 1. [Images](https://github.com/dangodev/web-standards/blob/master/images.md)
   1. [Galleries](https://github.com/dangodev/web-standards/blob/master/image-galleries.md)
 2. [Modals](https://github.com/dangodev/web-standards/blob/master/modals.md)
-3. [Pages](https://github.com/dangodev/web-standards/blob/master/pages.md)
+3. [Navigation](https://github.com/dangodev/web-standards/blob/master/navigation.md)
+  1. [Mobile](https://github.com/dangodev/web-standards/blob/master/navigation-mobile.md)
+4. [Pages](https://github.com/dangodev/web-standards/blob/master/pages.md)
 
 ### Goal
 
