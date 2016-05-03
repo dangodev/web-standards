@@ -11,4 +11,4 @@ This is a work in progress to try and find sane requirements for web interfaces 
 
 ### Goal
 
-The goal of this project is to provide a basic website checklist that, when met, provides a friendly and usable web interface, almost like a UX version of [PageSpeed](https://developers.google.com/speed/pagespeed/insights/). If the checklists for any web component become too exhastive or too opinionated, then the project has failed.
+The goal of this project is to provide a basic website checklist that, when met, provides a friendly and usable web interface, almost like a UX version of [PageSpeed](https://developers.google.com/speed/pagespeed/insights/). If the checklists for any web component become too exhastive to implement, or too opinionated to work in almost every scenario, then the project has failed.
