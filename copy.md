@@ -1,5 +1,11 @@
 # Copy
 
+### Punctuation
+
+- [ ] Feet & inches: use `′` and `″`, not `'`,`"`,`’` or `”`
+- [ ] Math: use `×`, not `x`
+- [ ] Quotes & apostrophes: use `“”` and `‘’`, not `"` and `'`
+
 ### Sales / Marketing
 
 - [ ] Avoid language that invites disagreement such as _try_ and _attempt_ (e.g.: _~~We try to create a one-stop website for vacation rentals~~_ → _Your one-stop website for vacation rentals_)
