@@ -4,7 +4,7 @@
 
 - [ ] Feet & inches: use `′` and `″` (prime / double prime), not `'`,`"`,`’` or `”`
 - [ ] Math: use `×`, not `x`
-- [ ] Plurals: never use `’`, unless the `S` confuses the word or acronym (e.g.: _~~1990’s~~_ and _~~6S’s~~_ are wrong, but _RV’S_ and _PhD’s_ are correct)
+- [ ] Plurals: always avoid using `’` unless the `S` can be confused for part of the word/acronym (e.g.: _~~1990’s~~_ and _~~6S’s~~_ are wrong, but _RV’S_ and _PhD’s_ are correct)
 - [ ] Quotes & apostrophes: use `“”` and `‘’`, not `"` and `'`
 
 ### Sales / Marketing
