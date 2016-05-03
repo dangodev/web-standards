@@ -5,11 +5,12 @@ This is a work in progress to try and find sane requirements for web interfaces 
 ### Sections
 
 1. [Copy](https://github.com/dangodev/web-standards/blob/master/copy.md)
+  1. [Sales / Marketing](https://github.com/dangodev/web-standards/blob/master/copy.md#sales--marketing)
 1. [Images](https://github.com/dangodev/web-standards/blob/master/images.md)
-  1. [Galleries](https://github.com/dangodev/web-standards/blob/master/image-galleries.md)
+  1. [Galleries](https://github.com/dangodev/web-standards/blob/master/images#galleries.md)
 1. [Modals](https://github.com/dangodev/web-standards/blob/master/modals.md)
 1. [Navigation](https://github.com/dangodev/web-standards/blob/master/navigation.md)
-  1. [Tray](https://github.com/dangodev/web-standards/blob/master/navigation-tray.md)
+  1. [Tray](https://github.com/dangodev/web-standards/blob/master/navigation#tray.md)
 1. [Pages](https://github.com/dangodev/web-standards/blob/master/pages.md)
 
 ### Goal
