@@ -10,7 +10,7 @@ This is a work in progress to try and find sane requirements for web interfaces 
   1. [Galleries](https://github.com/dangodev/web-standards/blob/master/images.md#galleries)
 1. [Modals](https://github.com/dangodev/web-standards/blob/master/modals.md)
 1. [Navigation](https://github.com/dangodev/web-standards/blob/master/navigation.md)
-  1. [Tray](https://github.com/dangodev/web-standards/blob/master/navigation.md#tray.md)
+  1. [Tray](https://github.com/dangodev/web-standards/blob/master/navigation.md#tray)
 1. [Pages](https://github.com/dangodev/web-standards/blob/master/pages.md)
 
 ### Goal
