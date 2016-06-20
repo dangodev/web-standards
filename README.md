@@ -1,6 +1,6 @@
 # Web Standards
 
-This is a work in progress to try and find sane requirements for web interfaces and web content.
+Work in progress to list reasonable requirements for web interfaces and web content.
 
 ### Sections
 
@@ -18,6 +18,6 @@ This is a work in progress to try and find sane requirements for web interfaces 
 
 ### Goal
 
-The goal of this project is to provide a basic website checklist that, when met, provides a friendly and usable web interface, almost like a UX version of [PageSpeed](https://developers.google.com/speed/pagespeed/insights/). If the checklists for any web component become too exhastive to implement, or too opinionated to work in almost every scenario, then the project has failed.
+The goal of this project is to make bare-minimum website checklists that are universal in application and raise web interface quality (kind of like a UX version of [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)). No checklist items should be conditional, and the lists should remain short and readable rather than bloated and too boring to read.
 
-The general idea is to focus on established web design paradigms that won’t be going away anytime soon, such as modals and image galleries. Experimental interactions will be omitted. Further, the goal of this project isn’t to assume which is right for a project; rather, it assumes the paradigms used are the correct solutions for the project and this is merely an implementation checklist to raise all solutions to completeness.
+The general idea is to highlight modern web paradigms that won’t be going away anytime soon, such as modals and image galleries. Experimental interactions will be omitted. Obviously, not every web project will use all paradigms mentioned, but where a paradigm is used, let’s come up with reasonable QA to make it as good as it can be.
