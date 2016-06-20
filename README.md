@@ -4,6 +4,7 @@ This is a work in progress to try and find sane requirements for web interfaces 
 
 ### Sections
 
+1. [Buttons](https://github.com/dangodev/web-standards/blob/master/buttons.md)
 1. [Copy](https://github.com/dangodev/web-standards/blob/master/copy.md)
   1. [Punctuation](https://github.com/dangodev/web-standards/blob/master/copy.md#punctuation)
   1. [Sales / Marketing](https://github.com/dangodev/web-standards/blob/master/copy.md#sales--marketing)
