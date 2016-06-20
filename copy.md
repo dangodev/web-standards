@@ -1,4 +1,5 @@
 # Copy
+Basic text rules commonly ignored.
 
 ### Punctuation
 
