@@ -1,5 +1,11 @@
 # Navigation
 
+Main menu of a site.
+
+### General
+
+- [ ] Should never change structure or appearance (but may be replaced / modified in such cases as users’ logging in and requiring different actions than logged-out users, for example)
+
 ### Tray
 
 The out-of-view navigation should be [avoided](http://www.lukew.com/ff/entry.asp?1945), but when it’s necessary:
