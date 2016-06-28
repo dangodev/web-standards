@@ -9,6 +9,7 @@ Work in progress to list reasonable requirements for web interfaces and web cont
   1. [Punctuation](https://github.com/dangodev/web-standards/blob/master/copy.md#punctuation)
   1. [Sales / Marketing](https://github.com/dangodev/web-standards/blob/master/copy.md#sales--marketing)
 1. [Dialogs](https://github.com/dangodev/web-standards/blob/master/dialogs.md)
+1. [Forms](https://github.com/dangodev/web-standards/blob/master/forms.md)
 1. [Images](https://github.com/dangodev/web-standards/blob/master/images.md)
   1. [Galleries](https://github.com/dangodev/web-standards/blob/master/images.md#galleries)
 1. [Modals](https://github.com/dangodev/web-standards/blob/master/modals.md)
